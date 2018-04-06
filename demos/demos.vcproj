@@ -162,7 +162,15 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
+				RelativePath=".\datarw.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\segyRW.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\txtRW.cpp"
 				>
 			</File>
 		</Filter>
@@ -173,6 +181,10 @@
 			>
 			<File
 				RelativePath=".\segyRW.h"
+				>
+			</File>
+			<File
+				RelativePath=".\txtRW.h"
 				>
 			</File>
 		</Filter>

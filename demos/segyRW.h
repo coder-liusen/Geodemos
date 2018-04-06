@@ -1,4 +1,4 @@
-//segy文件（微机格式）2d、3d数据读写
+//segy文件（微机格式）2D、3D数据读写
 #include <iostream>
 #include <fstream>
 
