@@ -166,7 +166,23 @@
 				>
 			</File>
 			<File
+				RelativePath=".\Interpolation.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\matrixComputation.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\segyRW.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\SLRandMLR.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Sort.cpp"
 				>
 			</File>
 			<File
@@ -180,7 +196,23 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
+				RelativePath=".\Interpolation.h"
+				>
+			</File>
+			<File
+				RelativePath=".\matrixComputation.h"
+				>
+			</File>
+			<File
 				RelativePath=".\segyRW.h"
+				>
+			</File>
+			<File
+				RelativePath=".\SLRandMLR.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Sort.h"
 				>
 			</File>
 			<File
