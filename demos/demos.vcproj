@@ -170,6 +170,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\LUFactorization.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\matrixComputation.cpp"
 				>
 			</File>
@@ -197,6 +201,10 @@
 			>
 			<File
 				RelativePath=".\Interpolation.h"
+				>
+			</File>
+			<File
+				RelativePath=".\LUFactorization.h"
 				>
 			</File>
 			<File
